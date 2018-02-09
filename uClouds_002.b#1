@@ -2321,7 +2321,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="31.24961875" y="41.20515" size="1.27" layer="28" rot="MR90"/>
 </element>
 <element name="C12" library="rcl" package="C0603K" value="1u" x="30.37649375" y="20.170775" smashed="yes" rot="MR180">
-<attribute name="NAME" x="28.81449375" y="22.060775" size="1.016" layer="26" rot="MR180"/>
+<attribute name="NAME" x="29.57649375" y="19.520775" size="1.016" layer="26" rot="MR180"/>
 <attribute name="VALUE" x="29.57649375" y="21.820775" size="1.016" layer="28" rot="MR180"/>
 </element>
 <element name="C13" library="rcl" package="153CLV-0505" value="47u" x="20.45461875" y="94.3864" smashed="yes" rot="MR90">
@@ -2473,7 +2473,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="6.31961875" y="14.835775" size="1.016" layer="28" rot="MR180"/>
 </element>
 <element name="C49" library="rcl" package="PANASONIC_A" value="10u" x="29.74149375" y="17.71015" smashed="yes" rot="MR0">
-<attribute name="NAME" x="28.59749375" y="15.39615" size="1.016" layer="26" rot="MR0"/>
+<attribute name="NAME" x="31.39149375" y="19.46015" size="1.016" layer="26" rot="MR0"/>
 <attribute name="VALUE" x="31.39149375" y="14.88515" size="1.016" layer="28" rot="MR0"/>
 </element>
 <element name="C5" library="rcl" package="C0603" value="100n" x="29.74149375" y="87.798275" smashed="yes" rot="MR240">
